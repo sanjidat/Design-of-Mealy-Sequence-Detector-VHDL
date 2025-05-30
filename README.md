@@ -12,7 +12,7 @@ It is designed as a personal portfolio project to demonstrate digital design ski
 ---
 
 ## 📂 Folder Structure
-
+<pre>
 mealy-sequence-detector-vhdl/
 ├── 3bit_overlapping/
 ├── 3bit_non_overlapping/
@@ -24,7 +24,7 @@ Each subfolder contains:
 - Testbench file
 - Simulation waveform/image
 - Synthesis and timing reports
-
+</pre>
 ---
 
 ## 🧠 What Is a Mealy FSM?
