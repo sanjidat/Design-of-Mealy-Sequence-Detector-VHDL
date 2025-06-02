@@ -50,3 +50,4 @@ A **Mealy machine** is a type of FSM where the output depends on both the curren
 
 
 🙋‍♀️ Author Developed by Sanjida Orin Tawhid
+_MSc in Electronic Systems Design, specialization in Digital Design_  
