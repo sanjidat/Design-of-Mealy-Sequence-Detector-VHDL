@@ -1,0 +1,89 @@
+# ======================
+# Quartus build files
+# ======================
+/db/
+/incremental_db/
+/output_files/
+/simulation/
+/qdb/
+/*.rpt
+/*.smsg
+/*.chg
+/*.eqn
+/*.pin
+/*.sof
+/*.pof
+/*.jic
+/*.srf
+/*.summary
+/*.qws
+/*.qdf
+/*.bak
+/*.qpf~
+*.done
+*.sld
+*.cdf
+*.sdc
+*.qsf.bak
+
+# Quartus auto-generated backup and temp files
+*~
+*.bak
+*.tmp
+*.lpm
+*.cmp
+*.lpf
+*.lso
+*.qws
+*.ddb
+*.idb
+
+# Quartus database files
+*.qdb
+*.smsg
+*.cmp
+*.rpt
+*.summary
+
+# Quartus project files you want to keep (optional)
+/*.qsf
+/*.qpf
+
+# ======================
+# ModelSim/QuestaSim
+# ======================
+/modelsim.ini
+/work/
+/vsim.wlf
+/Transcript
+/*.wlf
+/*.vstf
+/*.log
+/*.mti
+/*.dat
+/*.bak
+
+# Ignore TCL history if used
+/.modelsim_tcl_history
+
+# Simulation-generated files
+*.vcd
+*.wlf
+*.log
+*.ucdb
+*.vst
+*.do.bak
+
+# Optional: if you create waves or vsim folders
+/waves/
+/vsim/
+
+# ======================
+# IDE / OS-Specific
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
